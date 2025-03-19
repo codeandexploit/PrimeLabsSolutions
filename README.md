@@ -1,7 +1,3 @@
-Sure! Here's a more concise version of the README:
-
----
-
 # Prime Labs Solutions
 
 At Prime Labs Solutions, we empower businesses with innovative digital solutions. We specialize in web development, UX design, responsive websites, and custom web applications, helping your brand thrive in the digital world.
